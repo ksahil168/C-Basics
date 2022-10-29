@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<iostream>
+int main()
+{
+	int i , j,k;
+	for (i=1; i<=5; i++) // loop for 5 level of stars
+
+	  {
+	  	for(j=5-i; j>=0;j--)   // loop for how many spaces you want
+	  	   std::cout<<" ";
+	  	     for(k=1; k<=i; k++)   // loop for how many star you want
+	  	       { std::cout<<"*";
+				 }
+		
+	  std::cout<<"\n";	 
+	  
+	  }
+	  
+	  return 0;
+}
