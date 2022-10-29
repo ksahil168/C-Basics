@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<iostream>
+int main()
+{
+	int i , j;
+	for (i=1; i<=6; i++) // for how many levels you want to go ( In this 6 )
+	  {
+	  	for(j=1; j<=i;j++) // for how many stars you want
+	  	{
+	  	 std::cout<<"*";
+		}
+	  std::cout<<"\n";	 
+	  
+	  }
+	  
+	  return 0;
+}
