@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kumar Sahil
 - 👀 I’m interested in New Gadgets ,Technology, Porgramming, Data Science
-- 🌱 I’m currently learning C++, Python, DBMS
+- 🌱 I’m currently learning C++, Python, DBMS, SQL
 - 
 
 <!---
